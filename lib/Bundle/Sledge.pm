@@ -2,7 +2,7 @@ package Bundle::Sledge;
 
 use strict;
 use vars qw($VERSION);
-$VERSION = 0.02;
+$VERSION = 0.03;
 
 1;
 __END__
@@ -70,6 +70,8 @@ Error 0.15 - Error/exception handling in an OO-ish way
 LWP - The World-Wide Web library for Perl
 
 CGI 2.47 - Simple Common Gateway Interface Class
+
+Storable - persistency for perl data structures
 
 =head1 DESCRIPTION
 
